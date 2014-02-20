@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jprichardson/ymd](http://github.com/jprichardson/ymd). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jprichardson-ymd`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ymd
 ===
 
